@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 # Global bot setting
-TOKEN = '1492259756:AAEiVSAft4jzJeKPMBWbmwTjcKEYYaAsqeg'
+TOKEN = ''
 
 # Code
 PRODUCTS = {}
