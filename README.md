@@ -22,7 +22,7 @@ Step 3. To create a new bot, send "/ newbot" or click on this inscription
 
 
 What can do this bot?
-This bot can demonstrates the vouchers with profitable prices.
+It's a small Telebot to find and arrange vacations with best prices and accommodations.
 Shows for clients the image of those countries and prices with the links.
 Main job of this bot is to show the way for countries with vouchers.
 
