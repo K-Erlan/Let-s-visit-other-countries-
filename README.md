@@ -2,12 +2,6 @@
 app.py modules required:
    pyTelegramBotAPI
    telebot
-   
-  It can be added by command:
-                            pip install pyTelegramBotAPI
-                            pip install telebot
-###
-
 ###
 
 How to take TOKEN?
