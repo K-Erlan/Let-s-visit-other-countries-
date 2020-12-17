@@ -1,5 +1,5 @@
 ###
-app.py program requirement modules:
+explanation program requirement modules:
    pyTelegramBotAPI
    telebot
    
