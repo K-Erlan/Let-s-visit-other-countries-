@@ -1,7 +1,6 @@
 ###
 app.py modules required:
-   pyTelegramBotAPI
-   telebot
+   pyTelegramBotAPI, telebot
 ###
 
 How to take TOKEN?
